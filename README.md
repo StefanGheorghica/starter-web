@@ -8,4 +8,4 @@ This is a example on how to show different parts of a Git repository and various
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples for Git tranning.
